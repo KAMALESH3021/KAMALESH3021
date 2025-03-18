@@ -3,7 +3,7 @@
 Student of Artificial Intelligence and Data Science @ Karpagam Institute of Technology
 <img align="right" width="370" height="290" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fmultibroker.com.pl%2F%3Fk%3Dmake-animated-gif-for-your-custom-design-ll-MvgywhP&psig=AOvVaw3CGbrEDaf69Fqsi5cmy11q&ust=1722638476634000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiB5cru1IcDFQAAAAAdAAAAABAZ">                                               
 - 🌱 I'm currently learning DSA
-- 🧑‍💻 I’m currently working on ML projects
+- 🧑‍💻 I’m currently working on DL projects
 - 😊 I’m looking for help withPlacements in AI based companies
 - 🤩 Ready to learn more about Tech
 - 📫 How to reach me :
